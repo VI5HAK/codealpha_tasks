@@ -26,7 +26,7 @@ This repository contains three web development projects created during an intern
 
 ### 3. Video Conferencing Website
 **Description:** A web-based video conferencing application that allows users to host and join meetings with real-time video and audio communication.
-- **Technologies Used:** HTML, CSS, JavaScript, WebRTC, Node.js, Express, Socket.io
+- **Technologies Used:** HTML, CSS, JavaScript, WebRTC, Django, Socket.io
 - **Features:**
   - Data Encryption and User Authentication
   - Audio and video streaming
